@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 👨‍🎓 Quick Overview
-My name is Sanjana Prithviraj, and I am currently pursuing a **Bachelor of Computer Applications (BCA)** degree with a specialization in **Data Science in collaboration with I.B.M** at **Chhatrapati Shivaji Maharaj University, Panvel**. I am in my **3rd Year** of study, with an expected graduation in **August,2025**. Through this program, I am gaining a solid foundation in programming, data analysis preparing me for a successful career in the rapidly growing field of data science.
+My name is Sanjana Prithviraj, and I am currently pursuing a **Bachelor of Computer Applications (BCA)** degree with a specialization in **Data Science in collaboration with I.B.M** at **Chhatrapati Shivaji Maharaj University, Panvel**. I am in my **3rd Year** of study, with an expected graduation in **August, 2025**. Through this program, I am gaining a solid foundation in programming, data analysis preparing me for a successful career in the rapidly growing field of data science.
 
 # 🔧 Skills & Competencies
 Through my academic journey, I have gained proficiency in various tools, technologies, and concepts central to data science and analytics, including:
@@ -35,7 +35,6 @@ Through my academic journey, I have gained proficiency in various tools, technol
         
 
  5) Programming Languages
-    * Python: Proficient in Python for data manipulation, analysis, and machine learning.
     * HTML/CSS: Knowledge of HTML for structuring web content and CSS for designing and styling web pages.
     * C++: Understanding of object-oriented programming, algorithms, and data structures.
     * C: Knowledge of fundamental programming concepts and low-level system programming.
@@ -56,9 +55,9 @@ Through my academic journey, I have gained proficiency in various tools, technol
       towards obtaining relevant certifications to enhance my expertise and stay updated with the latest trends in data science.
 
     # 📚 Contact and Social Links
-    LinkedIn: Sanjana Prithviraj
+    LinkedIn: https://in.linkedin.com/in/sanjana-prithviraj-47ab2b29a
 
-    GitHub: Sanjana-Prithviraj456
+    GitHub: https://github.com/Sanjana-Prithviraj456
 
      Email: Sanjanaprithviraj8@gmail.com
 
