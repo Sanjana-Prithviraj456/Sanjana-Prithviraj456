@@ -17,7 +17,8 @@ Through my academic journey, I have gained proficiency in various tools, technol
  2) Tools and Technologies
     
   i) Excel: Advanced skills in using Excel for data analysis and visualization.  
-     * Pivot Tables: Organizing and summarizing large data sets.
+     * Pivot Tables: Organizing and summarizing large data sets.  
+     
      * Excel Dashboards: Creating dynamic and interactive dashboards to display business metrics.
 
        
